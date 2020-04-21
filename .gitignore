@@ -1,0 +1,20 @@
+.gdbinit
+.settings/language.settings.xml
+.settings/org.eclipse.cdt.managedbuilder.core.prefs
+Debug
+si
+*.si4project
+*.bak
+
+# source sight project files
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.SearchResults
+*.WK3
